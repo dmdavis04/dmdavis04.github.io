@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com/%22%3E
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap" rel="stylesheet"> 
+  </head>
+  <body>
+ <header><h1> Dante Davis's Professional/Educational Portfolio</h1> </header>
+     <main>
+      </main>
+  </body>
+</html>
